@@ -1,0 +1,12 @@
+pandas
+neo4j==5.28.0
+streamlit
+langchain
+langchain-community
+sentence-transformers
+huggingface-hub
+torch
+numpy
+scikit-learn
+plotly
+networkx
